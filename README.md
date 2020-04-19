@@ -6,3 +6,5 @@
 <img src="TempChallenge.png">
 <h2>Screenshot of Remainder Problem</h2>
 <img src="RemainderProblem.png">
+<h2>Screenshot of Lake View Hotel Problem</h2>
+<img src="LakeViewHotel.png">
