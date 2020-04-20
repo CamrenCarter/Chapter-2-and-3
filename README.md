@@ -10,3 +10,5 @@
 <img src="LakeViewHotel.png">
 <h2>Screenshot of Madlibs</h2>
 <img src="Madlibs.png">
+<h2>Screenshot of Currency Problem</h2>
+<img src="CurrencyProblem.png">
